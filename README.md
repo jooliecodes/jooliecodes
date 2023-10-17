@@ -4,7 +4,7 @@
 
   
 🌐 Creative web wanderer<br>🩷 Software Engineer<br>🌱 Lifelong Learner<br>💬 Ask me about my journey<br>
-  <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" alt="Umaru typing gif">
+  <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" alt="Umaru typing gif" width="50%">
  
 
 ## 🌐 Socials:
