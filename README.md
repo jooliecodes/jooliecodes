@@ -1,9 +1,11 @@
+
+<div align="center">
 # 💫 About Me:
 🌐 Creative web wanderer<br>🩷 Software Engineer<br>🌱 Lifelong Learner<br>💬 Ask me about my journey<br>
 
-<div align="center">
+
   <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" alt="Umaru typing gif">
-</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julieluangpraxay) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jooliekawaii) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/joolie) 
@@ -15,5 +17,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=julieluangpraxay&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julieluangpraxay&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+</div>
 
