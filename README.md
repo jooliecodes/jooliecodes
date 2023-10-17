@@ -1,6 +1,9 @@
 # 💫 About Me:
 🌐 Creative web wanderer<br>🩷 Software Engineer<br>🌱 Lifelong Learner<br>💬 Ask me about my journey<br>
 
+<div align="center">
+  <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" alt="Umaru typing gif">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julieluangpraxay) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jooliekawaii) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/joolie) 
