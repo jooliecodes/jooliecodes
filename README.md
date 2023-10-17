@@ -29,3 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julieluangpraxay&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
+[![](https://visitcount.itsvg.in/api?id=julieluangpraxay&icon=7&color=10)](https://visitcount.itsvg.in)
