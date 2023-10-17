@@ -1,6 +1,7 @@
 
-<div align="center">
+
 # 💫 About Me:
+<div align="center">
 🌐 Creative web wanderer<br>🩷 Software Engineer<br>🌱 Lifelong Learner<br>💬 Ask me about my journey<br>
 
 
