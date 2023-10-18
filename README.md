@@ -25,11 +25,6 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julieluangpraxay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julieluangpraxay&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=julieluangpraxay&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=julieluangpraxay&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 [![](https://visitcount.itsvg.in/api?id=julieluangpraxay&icon=7&color=10)](https://visitcount.itsvg.in)
