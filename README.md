@@ -3,7 +3,7 @@
 # 💫 About Me:
 
   
-🌐 Creative web wanderer<br> Software Developer<br>🌱 Lifelong Learner<br>💬 Ask me about my journey<br>
+🌐 Creative web wanderer<br> Software Developer<br>🌱 Lifelong Learner
   <img src="https://media.tenor.com/28mUekwjEMsAAAAC/himouto-umaru-chan-umaru.gif" alt="Umaru typing gif" width="200px">
  
 
